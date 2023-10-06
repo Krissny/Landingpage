@@ -54,6 +54,7 @@ a {
     display: flex;
     padding: 35px 175px 35px 175px;
     gap: 35px;
+    justify-content: center;
 }
 .box{
     height: 140px;
